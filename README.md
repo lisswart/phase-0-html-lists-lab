@@ -104,7 +104,7 @@ us to easily display related and nested content in a readable format.
 
 ![recipe list](https://curriculum-content.s3.amazonaws.com/html-fundamendals/html-lists-lab/Image_62_HTML%20Lab_Recipe.png)
 
-The first part of this challenge is to make the first 2 tests pass by:
+The first part of this challenge is to the first 2 tests pass by:
 
 1. Creating an unordered list 
 2. Nesting each grilled cheese ingredient as a list item wrapped in `<li>` tags
